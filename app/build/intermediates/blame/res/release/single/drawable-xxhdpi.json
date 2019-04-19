@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\common_signin_btn_text_focus_light.9.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\common_signin_btn_icon_focus_dark.9.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\common_signin_btn_text_pressed_light.9.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\common_signin_btn_text_pressed_dark.9.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\contact.png",
+        "source": "D:\\Projects\\Ringo\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\contact.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_plusone_small_off_client.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\common_signin_btn_icon_disabled_dark.9.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\common_signin_btn_icon_normal_light.9.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_plusone_standard_off_client.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\common_signin_btn_icon_normal_dark.9.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_plusone_tall_off_client.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\common_signin_btn_icon_disabled_light.9.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\common_signin_btn_text_focus_dark.9.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\powered_by_google_light.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\archive.png",
+        "source": "D:\\Projects\\Ringo\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\archive.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\invite.png",
+        "source": "D:\\Projects\\Ringo\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\invite.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\common_signin_btn_text_disabled_dark.9.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\common_signin_btn_text_disabled_dark.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\common_signin_btn_text_normal_dark.9.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\common_signin_btn_icon_pressed_light.9.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\about.png",
+        "source": "D:\\Projects\\Ringo\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\about.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_plusone_medium_off_client.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\common_signin_btn_icon_pressed_dark.9.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\common_signin_btn_icon_focus_light.9.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\common_signin_btn_text_disabled_light.9.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\powered_by_google_dark.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\common_signin_btn_text_normal_light.9.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-xxhdpi\\common_signin_btn_text_normal_light.9.png"
+    }
+]

@@ -1,0 +1,387 @@
+[
+    {
+        "outputFile": "D:\\Projects\\Ringo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-be\\values-be.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 127,
+                    "endOffset": 228
+                },
+                "from": {
+                    "file": "D:\\Projects\\Ringo\\app\\src\\main\\res\\values-be\\common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1118,
+                        "endColumn": 127,
+                        "endOffset": 1241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 233,
+                    "endColumn": 176,
+                    "endOffset": 405
+                },
+                "from": {
+                    "file": "D:\\Projects\\Ringo\\app\\src\\main\\res\\values-be\\common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 941,
+                        "endColumn": 176,
+                        "endOffset": 1113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 410,
+                    "endColumn": 125,
+                    "endOffset": 531
+                },
+                "from": {
+                    "file": "D:\\Projects\\Ringo\\app\\src\\main\\res\\values-be\\common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 815,
+                        "endColumn": 125,
+                        "endOffset": 936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 536,
+                    "endColumn": 128,
+                    "endOffset": 660
+                },
+                "from": {
+                    "file": "D:\\Projects\\Ringo\\app\\src\\main\\res\\values-be\\common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endColumn": 128,
+                        "endOffset": 810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 665,
+                    "endColumn": 213,
+                    "endOffset": 874
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\2234a9943905444bbbcac3f0c4eeda45b3b67ef7\\output\\res\\values-be\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 813,
+                        "endColumn": 213,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 879,
+                    "endColumn": 193,
+                    "endOffset": 1068
+                },
+                "from": {
+                    "file": "D:\\Projects\\Ringo\\app\\src\\main\\res\\values-be\\common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 296,
+                        "endColumn": 193,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1073,
+                    "endColumn": 195,
+                    "endOffset": 1264
+                },
+                "from": {
+                    "file": "D:\\Projects\\Ringo\\app\\src\\main\\res\\values-be\\common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 490,
+                        "endColumn": 195,
+                        "endOffset": 681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1269,
+                    "endColumn": 125,
+                    "endOffset": 1390
+                },
+                "from": {
+                    "file": "D:\\Projects\\Ringo\\app\\src\\main\\res\\values-be\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 125,
+                        "endOffset": 291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1395,
+                    "endColumn": 132,
+                    "endOffset": 1523
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\2234a9943905444bbbcac3f0c4eeda45b3b67ef7\\output\\res\\values-be\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 1151,
+                        "endColumn": 128,
+                        "endOffset": 1279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1528,
+                    "endColumn": 143,
+                    "endOffset": 1667
+                },
+                "from": {
+                    "file": "D:\\Projects\\Ringo\\app\\src\\main\\res\\values-be\\common_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2034,
+                        "endColumn": 143,
+                        "endOffset": 2173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1672,
+                    "endColumn": 237,
+                    "endOffset": 1905
+                },
+                "from": {
+                    "file": "D:\\Projects\\Ringo\\app\\src\\main\\res\\values-be\\common_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2301,
+                        "endColumn": 237,
+                        "endOffset": 2534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1910,
+                    "endColumn": 122,
+                    "endOffset": 2028
+                },
+                "from": {
+                    "file": "D:\\Projects\\Ringo\\app\\src\\main\\res\\values-be\\common_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2178,
+                        "endColumn": 122,
+                        "endOffset": 2296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2033,
+                    "endColumn": 108,
+                    "endOffset": 2137
+                },
+                "from": {
+                    "file": "D:\\Projects\\Ringo\\app\\src\\main\\res\\values-be\\common_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2662,
+                        "endColumn": 108,
+                        "endOffset": 2766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2142,
+                    "endColumn": 171,
+                    "endOffset": 2309
+                },
+                "from": {
+                    "file": "D:\\Projects\\Ringo\\app\\src\\main\\res\\values-be\\common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1376,
+                        "endColumn": 171,
+                        "endOffset": 1543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2314,
+                    "endColumn": 129,
+                    "endOffset": 2439
+                },
+                "from": {
+                    "file": "D:\\Projects\\Ringo\\app\\src\\main\\res\\values-be\\common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1246,
+                        "endColumn": 129,
+                        "endOffset": 1371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2444,
+                    "endColumn": 211,
+                    "endOffset": 2651
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\2234a9943905444bbbcac3f0c4eeda45b3b67ef7\\output\\res\\values-be\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1926,
+                        "endColumn": 211,
+                        "endOffset": 2137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2656,
+                    "endColumn": 188,
+                    "endOffset": 2840
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\2234a9943905444bbbcac3f0c4eeda45b3b67ef7\\output\\res\\values-be\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 2138,
+                        "endColumn": 184,
+                        "endOffset": 2322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2845,
+                    "endColumn": 98,
+                    "endOffset": 2939
+                },
+                "from": {
+                    "file": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\2234a9943905444bbbcac3f0c4eeda45b3b67ef7\\output\\res\\values-be\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 2323,
+                        "endColumn": 94,
+                        "endOffset": 2417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2944,
+                    "endColumn": 91,
+                    "endOffset": 3031
+                },
+                "from": {
+                    "file": "D:\\Projects\\Ringo\\app\\src\\main\\res\\values-be\\common_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2771,
+                        "endColumn": 91,
+                        "endOffset": 2858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3036,
+                    "endColumn": 105,
+                    "endOffset": 3137
+                },
+                "from": {
+                    "file": "D:\\Projects\\Ringo\\app\\src\\main\\res\\values-be\\common_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2863,
+                        "endColumn": 105,
+                        "endOffset": 2964
+                    }
+                }
+            }
+        ]
+    }
+]

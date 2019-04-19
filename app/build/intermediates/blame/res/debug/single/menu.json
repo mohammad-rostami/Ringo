@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\select_options.xml",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\menu\\select_options.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\edit_options.xml",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\menu\\edit_options.xml"
+    }
+]

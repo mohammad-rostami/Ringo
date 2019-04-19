@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "991775879734",
+    "firebase_url": "https://ringo-e44b7.firebaseio.com",
+    "project_id": "ringo-e44b7",
+    "storage_bucket": "ringo-e44b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991775879734:android:9f476071c84827fb",
+        "android_client_info": {
+          "package_name": "com.isatel.app.ringo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991775879734-8mhr8vaqfa4gj8m0abd2ncainogbgtak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYyW1zVITY7vmkVyGXnpyQxgNOJO1UfTA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

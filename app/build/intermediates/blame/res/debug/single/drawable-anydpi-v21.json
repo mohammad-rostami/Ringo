@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\bea22f16dccef0ede28f6943acadcd60c8c04e9e\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\archive.xml",
+        "source": "D:\\Projects\\Ringo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\archive.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\invite.xml",
+        "source": "D:\\Projects\\Ringo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\invite.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\about.xml",
+        "source": "D:\\Projects\\Ringo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\about.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\contact.xml",
+        "source": "D:\\Projects\\Ringo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\contact.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\bea22f16dccef0ede28f6943acadcd60c8c04e9e\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    }
+]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">991775879734-8mhr8vaqfa4gj8m0abd2ncainogbgtak.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://ringo-e44b7.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">991775879734</string>
+    <string name="google_api_key" translatable="false">AIzaSyCYyW1zVITY7vmkVyGXnpyQxgNOJO1UfTA</string>
+    <string name="google_app_id" translatable="false">1:991775879734:android:9f476071c84827fb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCYyW1zVITY7vmkVyGXnpyQxgNOJO1UfTA</string>
+    <string name="google_storage_bucket" translatable="false">ringo-e44b7.appspot.com</string>
+    <string name="project_id" translatable="false">ringo-e44b7</string>
+</resources>

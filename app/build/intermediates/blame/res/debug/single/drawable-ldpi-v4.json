@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_gradient.xml",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-ldpi\\btn_gradient.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\flat_gradient.xml",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-ldpi\\flat_gradient.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\round_gradient.xml",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-ldpi\\round_gradient.xml"
+    }
+]

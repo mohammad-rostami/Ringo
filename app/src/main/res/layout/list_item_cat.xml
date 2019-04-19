@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/music_item"
+    android:layout_width="fill_parent"
+    android:layout_height="50dp"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    >
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="#ffffff"
+        android:paddingRight="16dp"
+        android:paddingLeft="8dp"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/radio"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true" />
+
+        <TextView
+            android:id="@+id/row_title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="5dp"
+            android:gravity="right|center_vertical"
+            android:shadowColor="#3d3d3d"
+            android:singleLine="true"
+            android:text="همایون شجریان چرا رفتی"
+            android:textColor="#212121" />
+
+    </RelativeLayout>
+</LinearLayout>

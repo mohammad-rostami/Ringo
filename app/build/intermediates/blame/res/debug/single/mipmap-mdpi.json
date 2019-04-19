@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\alarm.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\mipmap-mdpi\\alarm.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\lock.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\mipmap-mdpi\\lock.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\contact.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\mipmap-mdpi\\contact.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\notification.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\mipmap-mdpi\\notification.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\invite.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\mipmap-mdpi\\invite.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\next.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\mipmap-mdpi\\next.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\download.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\mipmap-mdpi\\download.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\location.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\mipmap-mdpi\\location.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\music_library.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\mipmap-mdpi\\music_library.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\menu.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\mipmap-mdpi\\menu.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\save.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\mipmap-mdpi\\save.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\cut.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\mipmap-mdpi\\cut.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\contact_us.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\mipmap-mdpi\\contact_us.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ring.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\mipmap-mdpi\\ring.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\play.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\mipmap-mdpi\\play.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\folder.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\mipmap-mdpi\\folder.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\envelope.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\mipmap-mdpi\\envelope.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\pause.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\mipmap-mdpi\\pause.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\dot_menu.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\mipmap-mdpi\\dot_menu.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\music.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\mipmap-mdpi\\music.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\call.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\mipmap-mdpi\\call.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\about_us.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\mipmap-mdpi\\about_us.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\previous.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\mipmap-mdpi\\previous.png"
+    }
+]

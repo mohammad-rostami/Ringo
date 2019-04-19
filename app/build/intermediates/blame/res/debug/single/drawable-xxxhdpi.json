@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\about.png",
+        "source": "D:\\Projects\\Ringo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\about.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\contact.png",
+        "source": "D:\\Projects\\Ringo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\contact.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\archive.png",
+        "source": "D:\\Projects\\Ringo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\archive.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\invite.png",
+        "source": "D:\\Projects\\Ringo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\invite.png"
+    }
+]

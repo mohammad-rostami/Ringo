@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="visible">
+
+    </android.support.design.widget.AppBarLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="1">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@drawable/bkgrnd" />
+
+        <AbsoluteLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="56dp"
+            android:layout_weight="1">
+
+
+            <com.isatel.app.ringo.WaveformView
+                android:id="@+id/waveform"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+
+            <com.isatel.app.ringo.MarkerView
+                android:id="@+id/startmarker"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/start_marker"
+                android:nextFocusDown="@+id/endmarker"
+                android:src="@drawable/marker_left" />
+
+            <com.isatel.app.ringo.MarkerView
+                android:id="@+id/endmarker"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/end_marker"
+                android:nextFocusDown="@+id/info"
+                android:nextFocusUp="@+id/startmarker"
+                android:src="@drawable/marker_right" />
+
+        </AbsoluteLayout>
+
+        <include
+            layout="@layout/toolbar_main_transparent"
+            android:layout_width="match_parent"
+            android:layout_height="56dp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="156dp">
+
+        <LinearLayout
+            style="@style/ToolbarBackground"
+            android:layout_width="fill_parent"
+            android:layout_height="50dip"
+            android:background="@color/white"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/mark_start"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:text="زمان انتخاب شده"
+                    android:textColor="#000000"
+                    android:textSize="12sp"
+                    android:visibility="gone" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4dp"
+                    android:gravity="center_vertical|left"
+                    android:orientation="horizontal">
+
+                    <EditText
+                        android:id="@+id/starttext"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:contentDescription="@string/start_label"
+                        android:gravity="center"
+                        android:inputType="number|numberDecimal"
+                        android:textColor="#666666"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="31dip"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        android:clickable="true"
+                        android:gravity="center"
+                        android:text="/"
+                        android:textColor="#666666"
+                        android:textSize="14sp"
+                        android:textStyle="bold"
+                        android:visibility="visible" />
+
+                    <EditText
+                        android:id="@+id/endtext"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:contentDescription="@string/end_label"
+                        android:gravity="center"
+                        android:inputType="number|numberDecimal"
+                        android:textColor="#666666"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/mark_end"
+                        android:layout_width="wrap_content"
+                        android:layout_height="31dip"
+                        android:clickable="true"
+                        android:gravity="center"
+                        android:text="پایان"
+                        android:textColor="#666666"
+                        android:textSize="14sp"
+                        android:textStyle="bold"
+                        android:visibility="gone" />
+
+
+                    <TextView
+                        android:id="@+id/mark_start"
+                        android:layout_width="wrap_content"
+                        android:layout_height="31dip"
+                        android:clickable="true"
+                        android:gravity="center"
+                        android:text="شروع"
+                        android:textColor="#000000"
+                        android:textSize="14sp"
+                        android:textStyle="bold"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/info"
+                style="@style/AudioFileInfoOverlayText"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"
+                android:gravity="right|top"
+                android:nextFocusDown="@+id/play"
+                android:nextFocusUp="@+id/endmarker"
+                android:textSize="12sp"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/ToolbarBackground"
+            android:layout_width="fill_parent"
+            android:layout_height="106dp"
+            android:layout_alignParentBottom="true"
+            android:background="#ffffff"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/rew"
+                style="@android:style/MediaButton"
+                android:layout_width="64dp"
+                android:layout_height="40dp"
+                android:contentDescription="@string/rewind"
+                android:padding="8dp"
+                android:src="@drawable/previews"
+                android:tint="#d6d6d6" />
+
+            <LinearLayout
+                android:id="@+id/setAs"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:visibility="gone"
+                android:orientation="vertical">
+
+                <ImageView
+                    style="@android:style/MediaButton"
+                    android:layout_width="64dp"
+                    android:layout_height="40dp"
+                    android:contentDescription="@string/rewind"
+                    android:padding="8dp"
+                    android:src="@drawable/setas"
+                    android:tint="@color/gray_nav" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="تنظیم زنگ"
+                    android:textSize="10dp" />
+
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/play"
+                style="@android:style/MediaButton"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:contentDescription="@string/play"
+                android:padding="8dp"
+                android:src="@drawable/play2"
+                android:tint="#d6d6d6" />
+
+            <LinearLayout
+                android:id="@+id/saveAs"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:visibility="gone"
+                android:orientation="vertical">
+
+                <ImageView
+                    style="@android:style/MediaButton"
+                    android:layout_width="64dp"
+                    android:layout_height="40dp"
+                    android:contentDescription="@string/rewind"
+                    android:padding="8dp"
+                    android:src="@drawable/save"
+                    android:tint="@color/gray_nav" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="ذخیره در گوشی"
+                    android:textSize="10dp" />
+
+            </LinearLayout>
+
+
+            <ImageView
+                android:id="@+id/ffwd"
+                style="@android:style/MediaButton"
+                android:layout_width="64dp"
+                android:layout_height="40dp"
+                android:contentDescription="@string/ffwd"
+                android:padding="8dp"
+                android:src="@drawable/next"
+                android:tint="#d6d6d6" />
+
+
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout style="@style/HorizontalDividerTop" />
+
+    <LinearLayout style="@style/HorizontalDividerBottom" />
+
+    <include
+        layout="@layout/toolbar_icons"
+        android:layout_width="match_parent"
+        android:layout_height="56dp" />
+</LinearLayout>

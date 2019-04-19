@@ -1,0 +1,558 @@
+[
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_work.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_work.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_person.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_person.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_save.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_save.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_delete.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_mood.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_mood.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_thumb_up.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_thumb_up.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_settings.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_settings.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_edit.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_edit.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_business.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_business.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_info.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_info.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_image.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_image.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\2234a9943905444bbbcac3f0c4eeda45b3b67ef7\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_call.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_call.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\2234a9943905444bbbcac3f0c4eeda45b3b67ef7\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\button_back_img_green.xml",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-hdpi\\button_back_img_green.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_notifications.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_notifications.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_loyalty.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_loyalty.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\2234a9943905444bbbcac3f0c4eeda45b3b67ef7\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\button_back_img_orange.xml",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-hdpi\\button_back_img_orange.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\2234a9943905444bbbcac3f0c4eeda45b3b67ef7\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_sms.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_sms.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_place.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_place.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_school.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_school.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_forward.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_forward.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_visibility.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_visibility.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_email.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_email.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_cancel.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_cancel.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_thumb_down.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_thumb_down.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\button_back.xml",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-hdpi\\button_back.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_build.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_build.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_search.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_search.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_language.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_language.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_announcement.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_announcement.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_phone_android.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_phone_android.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\design_ic_visibility_off.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\bea22f16dccef0ede28f6943acadcd60c8c04e9e\\output\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\2234a9943905444bbbcac3f0c4eeda45b3b67ef7\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_attach_money.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_attach_money.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_group.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_group.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_mood_bad.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_mood_bad.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_alarm.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_alarm.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_chat.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_chat.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_file_download.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_file_download.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_event.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_event.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_attach.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_attach.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_help.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_help.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_close.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_close.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_empty.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_empty.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_share.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_share.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_local_dining.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_local_dining.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\2234a9943905444bbbcac3f0c4eeda45b3b67ef7\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_check.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_check.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_open_in_browser.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_open_in_browser.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_reply.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_reply.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_poll.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_poll.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_airplane.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_airplane.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_audiotrack.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_audiotrack.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_pause_circle_filled.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_pause_circle_filled.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_shopping_cart.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_shopping_cart.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\design_ic_visibility.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\bea22f16dccef0ede28f6943acadcd60c8c04e9e\\output\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\2234a9943905444bbbcac3f0c4eeda45b3b67ef7\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_view_list.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_view_list.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_add_box.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_add_box.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_highlight_off.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_highlight_off.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_exit_to_app.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_exit_to_app.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_map.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_map.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_store.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_store.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_favorite.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_favorite.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_file_upload.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_file_upload.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_check_box.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_check_box.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_shopping_basket.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_shopping_basket.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_star.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_star.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_apps.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_apps.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\2234a9943905444bbbcac3f0c4eeda45b3b67ef7\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_history.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_history.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_photo_camera.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_photo_camera.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_payment.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_payment.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\2234a9943905444bbbcac3f0c4eeda45b3b67ef7\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_visibility_off.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_visibility_off.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_sync.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_sync.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_local_offer.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_local_offer.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_home.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_home.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_flag.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_flag.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\2234a9943905444bbbcac3f0c4eeda45b3b67ef7\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_card_giftcard.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_card_giftcard.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\2234a9943905444bbbcac3f0c4eeda45b3b67ef7\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_local_cafe.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\\output\\res\\drawable-hdpi-v4\\ic_local_cafe.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\2234a9943905444bbbcac3f0c4eeda45b3b67ef7\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Surface Pro 4\\.android\\build-cache\\c7719553a1fff2a8d72dcd3f144ba2f6622c36e3\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    }
+]

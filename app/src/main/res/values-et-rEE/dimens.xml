@@ -1,0 +1,53 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="text_size_big">20sp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="text_size_small">13sp</dimen>
+    <dimen name="XXL_text">16sp</dimen>
+    <dimen name="M_text">12sp</dimen>
+    <dimen name="big_item_pad">35sp</dimen>
+    <dimen name="big_item_pad_min">10sp</dimen>
+    <dimen name="XXL_pad">20sp</dimen>
+    <dimen name="XL_pad">18sp</dimen>
+    <dimen name="L_pad">14sp</dimen>
+    <dimen name="s_pad">12sp</dimen>
+    <dimen name="ss_pad">5sp</dimen>
+    <dimen name="S_icon">54sp</dimen>
+    <dimen name="SS_icon">24sp</dimen>
+
+
+    <dimen name="height0">56dp</dimen>
+    <dimen name="height1">48dp</dimen>
+    <dimen name="height2">36dp</dimen>
+    <dimen name="height3">42dp</dimen>
+
+
+    <dimen name="icon_big">56dp</dimen>
+    <dimen name="icon0">36dp</dimen>
+    <dimen name="icon2">24dp</dimen>
+    <dimen name="icon4">16dp</dimen>
+
+
+    <dimen name="text_huge">42sp</dimen>
+    <dimen name="text_big">28sp</dimen>
+    <dimen name="text0">18sp</dimen>
+    <dimen name="text1">16sp</dimen>
+    <dimen name="text2">14sp</dimen>
+    <dimen name="text3">12sp</dimen>
+    <dimen name="text4">10sp</dimen>
+
+    <dimen name="pad_big">32dp</dimen>
+    <dimen name="pad0">19dp</dimen>
+    <dimen name="pad1">17dp</dimen>
+    <dimen name="pad2">16dp</dimen>
+    <dimen name="pad3">12dp</dimen>
+    <dimen name="pad4">8dp</dimen>
+    <dimen name="pad5">4dp</dimen>
+
+    <dimen name="icon1">14dp</dimen>
+
+
+
+
+</resources>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\7fe1d80889348dfa6c6e54c13da3baff668b5593\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61a0369f93fb7901fde1bdae68fc71de256244c">
+        <dex dex="D:\Projects\Mp3 Cutter and Ringtone Maker1\app\build\intermediates\pre-dexed\debug\classes_32c2490d3729c583ac1fe543029bfb287b512a6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\5e02904cd8870cc84e322c9dc794a04ee14cf26c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e234aabd1c11160b5f76f50c5c53a324be322ede">
+        <dex dex="D:\Projects\Mp3 Cutter and Ringtone Maker1\app\build\intermediates\pre-dexed\debug\classes_1d6f25d16f323f803d9552933f4e45870c3bb627.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\8790c89f8a31d5459cbfd3f82ec9f13b8c27b35b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0bb29d7cc626fb332fa4358367452c58af636fc8">
+        <dex dex="D:\Projects\Mp3 Cutter and Ringtone Maker1\app\build\intermediates\pre-dexed\debug\classes_3b6226f263c154b25529dad110aa50560af9e834.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\71e14fd876cc6fc946802b78f5d95023a2f37f00\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5ee4b7829f6ec48400e678cc969176f455cb14c">
+        <dex dex="D:\Projects\Mp3 Cutter and Ringtone Maker1\app\build\intermediates\pre-dexed\debug\classes_d69cc2b806e8e154aa00e8ee5a4d92e8655a0dae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\c52cd80be7802334f7ef240043b869d74b10708e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc343a74c077ec04bbedf0c88f8a5473306edc78">
+        <dex dex="D:\Projects\Mp3 Cutter and Ringtone Maker1\app\build\intermediates\pre-dexed\debug\classes_44ba5ac492e33d21449028894ee5e28bb689f044.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\75cae49b4a183d77b56d8eacca3b68a358a05f84\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\Projects\Mp3 Cutter and Ringtone Maker1\app\build\intermediates\pre-dexed\debug\classes_4823f401e8f61ec9dd7027abf2afb6708c8a34ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\ad3c69db17a088516b99748a0df617da1f2ce14a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="D:\Projects\Mp3 Cutter and Ringtone Maker1\app\build\intermediates\pre-dexed\debug\classes_4c214a0975811f6ad277a251558b20d05473ae35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\2e60ca605573dc4a64277db766300abc17e61fb9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b78e58a826f43bf55d2511ba10f7b9bb64d2da9">
+        <dex dex="D:\Projects\Mp3 Cutter and Ringtone Maker1\app\build\intermediates\pre-dexed\debug\classes_50708cae515006b9c407bb867327dea877b4357e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\9708b68fb56bb3ec0150999b57b90bd0ac6716e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="D:\Projects\Mp3 Cutter and Ringtone Maker1\app\build\intermediates\pre-dexed\debug\classes_45849ee24e4d3b05fc030f6fbdcb7e0eb949db6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\6ff4d8da035d6674782e7d213f6686ac4d94e033\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e1b6293610aba2e3942d9f613cbe62445df7720">
+        <dex dex="D:\Projects\Mp3 Cutter and Ringtone Maker1\app\build\intermediates\pre-dexed\debug\classes_4e9da847db41602c405a1f7f893acc78caad87c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\7ba5ac55922a3eff98a55701c61b4fd5314be789\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="978a742818fa8e1d6a014f26db191b7f72de2880">
+        <dex dex="D:\Projects\Mp3 Cutter and Ringtone Maker1\app\build\intermediates\pre-dexed\debug\classes_2be0fa69e8be202187b855471067fb4c425a1686.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\2234a9943905444bbbcac3f0c4eeda45b3b67ef7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\Projects\Mp3 Cutter and Ringtone Maker1\app\build\intermediates\pre-dexed\debug\classes_c007ff8d449fcbf8934735ebc47616a9ad9dd00e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\4eccca96e714143206c797b83e2671d9fd499959\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\Projects\Mp3 Cutter and Ringtone Maker1\app\build\intermediates\pre-dexed\debug\classes_51bc5e94ef920f31dc35e510e68e528ea89e1864.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\8b752f710c9aa627d092d1a27cd81d27db2e29ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="D:\Projects\Mp3 Cutter and Ringtone Maker1\app\build\intermediates\pre-dexed\debug\classes_0b3342da33775c6f63d215dc7e76a883d97386a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\5bfaa31208dd7edf20a9ae0f6bd4a822888202dc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="D:\Projects\Mp3 Cutter and Ringtone Maker1\app\build\intermediates\pre-dexed\debug\classes_a7199b780d360ce432818e5320cb2960989981d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\1082b9a9d85fd1bbcf9b953f2d14bfc5b7579e41\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="D:\Projects\Mp3 Cutter and Ringtone Maker1\app\build\intermediates\pre-dexed\debug\classes_b0d4864cd27c807cbfe2e0e2b35436e4846df2c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\ff24763256a8cdb7454aef497a8670da9cfb82f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="D:\Projects\Mp3 Cutter and Ringtone Maker1\app\build\intermediates\pre-dexed\debug\classes_37cef06bcf0ee8f66ab89d8fd20903402593e599.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\98305d5b3fe4be796db4f9fa33e6857d934d51d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a743d0934e90e7f26d75a2463142c4b884b2981">
+        <dex dex="D:\Projects\Mp3 Cutter and Ringtone Maker1\app\build\intermediates\pre-dexed\debug\classes_caa14667abe388bd572c97eb8782bb46282118bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\d6d5c6dffe486c109a66439bc7c5a6a955e27724\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4309053f1e20370642b19c7e947517c96b3981ea">
+        <dex dex="D:\Projects\Mp3 Cutter and Ringtone Maker1\app\build\intermediates\pre-dexed\debug\classes_d49f1bbef3bfdf15378a64320f0f02ae41867bde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\368c9b7451fcbe5ecc925f158b5fb4defc2f6a75\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d16ffcc50b1dfa726cf978ea9f0a949cdd70e7d">
+        <dex dex="D:\Projects\Mp3 Cutter and Ringtone Maker1\app\build\intermediates\pre-dexed\debug\classes_120b886c81362023fe2a0635aa012a0b128d5fdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\c34dc348976bf846285cefa68e6b6cd080d2c9cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="D:\Projects\Mp3 Cutter and Ringtone Maker1\app\build\intermediates\pre-dexed\debug\classes_049ecbbcc813c45c3d5b96ae5773dc006775828c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Surface Pro 4\.android\build-cache\cb8e2b043dacfe209a3f4a043227baae3ebae327\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="13430a12bb2eb82b397f10f61fe1f6989279c6bd">
+        <dex dex="D:\Projects\Mp3 Cutter and Ringtone Maker1\app\build\intermediates\pre-dexed\debug\classes_df932dadfd9b269da39df03630026fd728641a5d.jar" />
+    </item>
+
+</items>

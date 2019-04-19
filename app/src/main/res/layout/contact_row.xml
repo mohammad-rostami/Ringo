@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="50dp"
+    android:background="@color/white"
+    android:gravity="center_vertical"
+    android:padding="5dp">
+
+    <ImageView
+        android:id="@+id/row_icon"
+        android:layout_width="40dip"
+        android:layout_height="40dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="5dp"
+        android:background="#e9e8e8"
+        android:gravity="center_vertical"
+        android:padding="10dp"
+        android:src="@mipmap/contact"
+        android:tint="#777777" />
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_marginBottom="4dip"
+        android:layout_marginTop="4dip"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/row_display_name"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:paddingLeft="16dp"
+            android:shadowColor="#999999"
+            android:shadowDx="1"
+            android:shadowDy="1"
+            android:shadowRadius="1"
+            android:textColor="#000000"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="right"
+        android:orientation="horizontal">
+
+
+        <ImageView
+            android:id="@+id/row_starred"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:gravity="center_vertical"
+            android:padding="8dp"
+            android:src="@drawable/star" />
+
+        <ImageView
+            android:id="@+id/row_ringtone"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:gravity="center_vertical"
+            android:padding="8dp"
+            android:src="@drawable/type_ringtone" />
+    </LinearLayout>
+</LinearLayout>

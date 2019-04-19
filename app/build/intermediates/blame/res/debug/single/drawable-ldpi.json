@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\location.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-ldpi\\location.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\right_button.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-ldpi\\right_button.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\left_button.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-ldpi\\left_button.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_navigation_arrow_back.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-ldpi\\ic_navigation_arrow_back.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\about.png",
+        "source": "D:\\Projects\\Ringo\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\about.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\banner3.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-ldpi\\banner3.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\web_icon.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-ldpi\\web_icon.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\contact.png",
+        "source": "D:\\Projects\\Ringo\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\contact.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\invite.png",
+        "source": "D:\\Projects\\Ringo\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\invite.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\banner2.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-ldpi\\banner2.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\banner1.png",
+        "source": "D:\\Projects\\Ringo\\app\\src\\main\\res\\drawable-ldpi\\banner1.png"
+    },
+    {
+        "merged": "D:\\Projects\\Ringo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\archive.png",
+        "source": "D:\\Projects\\Ringo\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\archive.png"
+    }
+]
